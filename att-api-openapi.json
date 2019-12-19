@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "1",
+        "title": "AT&T API",
+        "description": "This is a complete definition of the AT&T API. Needs to be broken into separate endpoints.",
+        "termsOfService": ""
+    },
+    "servers": [
+        "httpsapi.att.com\/"
+    ],
+    "paths": [],
+    "components": {
+        "schemas": []
+    }
+}
